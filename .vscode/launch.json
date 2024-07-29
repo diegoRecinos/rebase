@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/orion/Documents/RPG backup idk NO LOOP CHARACTERS/MateDiscreta",
-      "program": "c:/Users/orion/Documents/RPG backup idk NO LOOP CHARACTERS/MateDiscreta/build/Debug/outDebug",
+      "cwd": "c:/Users/orion/Desktop/RPG/MateDiscreta",
+      "program": "c:/Users/orion/Desktop/RPG/MateDiscreta/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
